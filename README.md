@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devinvonarx
+- 👀 I’m interested in juggling, coding and aerial arts! My favorite languages are Python, JavaScript, and Java.
+- 🌱 I’m currently learning vim and machine learning.
