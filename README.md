@@ -1,2 +1,2 @@
 - Hi, I’m @devinvonarx
-- I’m interested in juggling, coding, philosophy and aerial arts! I'm pursuing a BS in Electrical Engineering. 
+- I’m interested in juggling, coding, philosophy and aerial arts! I have a BS in Electrical Engineering and am curious about AI verification. 
